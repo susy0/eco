@@ -265,3 +265,13 @@ details {
     font-family: 'Noto Sans', sans-serif;
     
 }
+
+
+.noto-sans-<fonts> {
+  font-family: "Noto Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: italic;
+  font-variation-settings:
+    "wdth" 100;
+}
